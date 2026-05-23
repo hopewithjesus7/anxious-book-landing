@@ -1,0 +1,11 @@
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 미리보기/임시 캡처
+_preview/
+
+# Python
+__pycache__/
+*.pyc
